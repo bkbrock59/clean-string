@@ -1,0 +1,1 @@
+# RPGLE - Clean invalid characters from string
